@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ozguryurt
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning C#, HTML, CSS, JS, PHP etc.
 - 📫 How to reach me ozgurryurtt@gmail.com
 
 <!---
