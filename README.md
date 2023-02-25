@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm @ozguryurtt</h1>
 <h3 align="center">A Full-Stack Web Developer.</h3>
-
 <h4 align="center">👨‍💻 <b><a target="_blank" href="https://github.com/ozguryurt?tab=repositories">My Projects</a></b></h4>
 <h4 align="center">📫 <b>ozgurryurtt@gmail.com</b></h4>
-
+<hr>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
