@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @ozguryurtt</h1>
 <h3 align="center">A Full-Stack Web Developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ozguryurt?tab=repositories](Click)
+- 👨‍💻 My projects **[Click here](https://github.com/ozguryurt?tab=repositories)**
 
-- 📫 How to reach me **ozgurryurtt@gmail.com**
+- 📫 My  e-mail: **ozgurryurtt@gmail.com**
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
