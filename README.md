@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @ozguryurtt</h1>
 <h3 align="center">A Full-Stack Web Developer.</h3>
 
-<h4 align="center">👨‍💻 **[My projects](https://github.com/ozguryurt?tab=repositories)**</h4>
+<h4 align="center">👨‍💻 ** [My projects](https://github.com/ozguryurt?tab=repositories) **</h4>
 <h4 align="center">📫 **ozgurryurtt@gmail.com**</h4>
 
 <h3 align="left">Programming Languages:</h3>
