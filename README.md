@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm @ozguryurtt</h1>
-<h3 align="center">Web Developer.</h3>
+<h1 align="center">@ozguryurtt</h1>
+<h3 align="center">Web Developer</h3>
 <h4 align="center">🌐 <b><a href="https://ozguryurt.dev" target="_blank" rel="noreferrer">ozguryurt.dev</a></b><h4>
 <h4 align="center">📫 <b>ozgurryurtt@gmail.com</b></h4>
 <hr>
