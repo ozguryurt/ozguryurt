@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm @ozguryurtt</h1>
 <h3 align="center">A Full-Stack Web Developer.</h3>
-<h4 align="center">🌐 <b><a href="https://ozguryurt.dev" target="_blank" rel="noreferrer">My Website</a></b><h4>
-<h4 align="center">👨‍💻 <b><a target="_blank" href="https://github.com/ozguryurt?tab=repositories">My Projects</a></b></h4>
+<h4 align="center">🌐 <b><a href="https://ozguryurt.dev" target="_blank" rel="noreferrer">ozguryurt.dev</a></b><h4>
 <h4 align="center">📫 <b>ozgurryurtt@gmail.com</b></h4>
 <hr>
 <h3 align="left">Programming Languages:</h3>
