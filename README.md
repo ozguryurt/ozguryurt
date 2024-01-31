@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">[https://ozguryurt.dev](ozguryurt.dev)<br>ozgurryurtt@gmail.com</p>
+<p align="center">[ozguryurt.dev](https://ozguryurt.dev)<br>ozgurryurtt@gmail.com</p>
 
 ###
 
