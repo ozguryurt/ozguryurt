@@ -2,9 +2,11 @@
 
 ###
 
-[ozguryurt.dev](https://www.ozguryurt.dev)
-<br>
-ozgurryurtt@gmail.com
+<p align="center">
+  <a href="https://www.ozguryurt.dev" target="_blank">ozguryurt.dev</a>
+  <br>
+  ozgurryurtt@gmail.com
+</p>
 
 ###
 
