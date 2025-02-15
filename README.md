@@ -56,6 +56,16 @@
 
 ###
 
+<h2 align="left">Mobile</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+</div>
+
+###
+
 <h2 align="left">Programming languages</h2>
 
 ###
